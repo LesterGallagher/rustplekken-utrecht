@@ -1,0 +1,16 @@
+
+
+.leaflet-popup-content, 
+.leaflet-popup-content *{
+    user-select: all!important;
+    user-select: text!important;
+}
+
+#map {
+    position: absolute;
+    left: 0; top: 0; right: 0; bottom: 0;
+}
+
+ons-toolbar.toolbar {
+    background-image: linear-gradient(0deg,rgb(119, 140, 140),rgb(115, 136, 136) 100%);
+}

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.EchoSierraStudio.Rustplekken_Utrecht" version="1.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Rustplekken Utrecht</name>
+    <description>
+        Met de Kadaster kaart app kunt u gemakkelijk informatie opzoeken over percelen die geregistreerd staan bij het Kadaster.
+    </description>
+    <author email="polyismstudio@gmail.com" href="https://esstudio.site/">
+        Sem Postma
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-navigation href="https://echosierrastudio.github.io/EchoSierraStudio/privacy-policy.html" />
+    <allow-navigation href="https://esstudio.site/*" />
+    <allow-navigation href="https://esstudio.site" />
+    <allow-navigation href="mailto:polyismstudio@gmail.com" />
+    <allow-navigation href="http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <preference name="StatusBarBackgroundColor" value="#687979" />
+    <preference name="orientation" value="portrait" />
+    <preference name="SplashScreen" value="images/logo.png" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="SplashScreenDelay" value="500" />
+    <preference name="SplashScreenBackgroundColor" value="#8aa3a3" />
+    <preference name="SplashScreenWidth" value="256" />
+    <preference name="SplashScreenHeight" value="256" />
+</widget>
