@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.EchoSierraStudio.Rustplekken_Utrecht" version="1.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.EchoSierraStudio.Rustplekken_Utrecht" version="1.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Rustplekken Utrecht</name>
     <description>
-        Interactieve kaart met rustpunten in utrecht. De app bevat ook een offline kaartje zodat je de app ook offline kan gebruiken.
+        Interactieve kaart met rustpunten in Utrecht. De app bevat ook een offline kaartje zodat je de app ook offline kan gebruiken.
     </description>
     <author email="polyismstudio@gmail.com" href="https://esstudio.site/">
         Sem Postma
